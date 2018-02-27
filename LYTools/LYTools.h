@@ -20,8 +20,10 @@
 #import "UILabel+Extension.h"//uilabel的扩展类
 #import "LYDateConversion.h"//时间转换的分类
 #import "LYNaviRightButton.h"//快速给导航栏添加右上角的按钮功能
+#import "LYNaviActivityView.h"//导航栏加菊花的title
 #import "LYRealtimeSearchUtil.h"//对象数组查询关键字功能
 #import "LYTextView.h"//带placeholder的textView
 //NullSafe这个类直接用于将请求回来的null数据转成（null）字符串，慎用
+#import "LYDefineTool.h"//一些公共的宏定义
 
 #endif /* LYTools_h */
